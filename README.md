@@ -1,4 +1,4 @@
-# Music_sales_project
+# Music_sales_SQL_project
 This repository showcases my work on a **Music Sales Analysis Project** using **PostgreSQL**. The project involves querying a music sales database to derive meaningful insights and solve business-related questions. 
 
 ## Key Highlights
